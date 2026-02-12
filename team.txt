@@ -3,3 +3,4 @@ Cég neve: Bayerische Motoren Werke
 Választott téma: Sneaker
 Vezető fejlesztő: Horváth Rikárdó
 Dizájner: Tóth Bence
+ 
